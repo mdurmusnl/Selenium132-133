@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Selenium132-133" />
+        <module name="Selenium_132-133" />
       </profile>
     </annotationProcessing>
   </component>

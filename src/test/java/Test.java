@@ -9,6 +9,8 @@ public class Test {
         WebDriver dr = new ChromeDriver();
         dr.get("https://www.google.com");
         System.out.println("denme");
+        System.out.println("done");
+
 
     }
 
