@@ -1,6 +1,7 @@
 package com.myfirstproject;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -47,6 +48,9 @@ public class Day04_xpath_css {
 //login button
         WebElement loginButton = driver.findElement(By.xpath("//button[@type='submit']"));
         loginButton.click();
+
+        //do assertion
+
     }
     @Test
     public void loginTest2(){

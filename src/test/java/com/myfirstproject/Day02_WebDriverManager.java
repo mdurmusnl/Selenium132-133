@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Day02_WebDriverManager {
     public static void main(String[] args) {
     //set up
-        //without WebdriverManager
+            //without WebdriverManager
         //earlier we did like this  not recommended
            //  System.setProperty("webdriver.chrome.driver","src/resourses/drivers/chromedriver.exe"); chrome setup
                   //WebDriver driver= new ChromeDriver();

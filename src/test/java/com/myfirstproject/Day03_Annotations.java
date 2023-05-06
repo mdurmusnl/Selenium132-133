@@ -5,7 +5,7 @@ import org.junit.*;
 
 public class Day03_Annotations {
     /*
-       there are 6 JUnit annotationa
+       there are 6 JUnit annotations
        1) @Test : is used to create a test case. All test cases must be void type . we re not expecting to return smt.we create test cases to do assertion
        2) @Before and @After : are used to run before or after EACH @TEST method
                if we run the whole class then before and after method run for each method   but

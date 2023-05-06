@@ -42,7 +42,7 @@ public class Day03_Locators {
         //locating password
         driver.findElement(By.name("password")).sendKeys("admin123");
   //locating button
-        driver.findElement(By.tagName("button")).click();
+        driver.findElement(By.tagName("button")).click();//we located the element and we did the action of click
 
         //homework
         //verify if the ul contains dashboard keyword
