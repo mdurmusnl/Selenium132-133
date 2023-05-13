@@ -82,7 +82,7 @@ public class q04_Calculator  {
         assertEquals("24",result);
         // Print the result
         System.out.println(result);
-
+        System.out.println("github trail");
 
     }
   @After
